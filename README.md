@@ -132,7 +132,7 @@ localStorage.setItem('chatHistory', JSON.stringify(chatHistory));
 This allows users to persist their interactions without relying solely on server-side storage.
 
 - You can check the prompt responses history at **chat_history.json** file.
-![Chatbot History](output/chat_history.PNG) 
+![Chatbot History](output/chat-history.PNG) 
 
 ## Contributing
 
